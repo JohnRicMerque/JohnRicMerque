@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm John Ric Merque</h1>
 <h3 align="center">a BS Computer Engineering student at PUP Sta. Mesa</h3>
-<img align="right" width="40%" alt="Coding" width="400" src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif">
+<img align="right" width="40%" alt="Coding" src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif">
 
-<hr>
+<hr >
 
 - 🔭 I’m currently working on **Front-End Web Development**
 
