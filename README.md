@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm John Ric Merque</h1>
-<h3 align="center">a BS Computer Engineering student at PUP Sta. Mesa</h3>
+<h3 align="center"></h3>
 <img align="right" width="40%" alt="Coding" src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif">
 
-<hr >
+<hr align="left" width="55%" >
+<div >
 
-- 🔭 I’m currently working on **Front-End Web Development**
+- 📚 I’m currently working on **Front-End Web Development**
 
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript**
+- 📖 I’m currently learning **HTML, CSS, and JavaScript**
 
-- 📖 I’m currently a **BS Computer Engineering student at PUP Sta. Mesa**
+- ✍ I’m currently a **BS Computer Engineering student at PUP Sta. Mesa**
 
 - ⚡ Fun fact **#I like rain, anime, sunsets, and delicate music :>**
-
-<hr>
+</div>
+<hr align="left" width="55%">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@jinriccc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jinriccc" height="30" width="40" /></a>
