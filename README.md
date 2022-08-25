@@ -5,8 +5,6 @@
 <hr align="left" width="55%" >
 <div >
 
-- 📚 I’m currently working on **Front-End Web Development**
-
 - 📖 I’m currently learning **HTML, CSS, and JavaScript**
 
 - ✍ I’m currently a **BS Computer Engineering student at PUP Sta. Mesa**
