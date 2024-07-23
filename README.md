@@ -24,14 +24,14 @@
   <!--  <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> --> 
 <!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
  <!--  <a href="https://www.youtube.com/watch?v=p0uAJ6Eu4Rs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> -->
-  <a href="https://curiouscat.live/HalemoGPA"><img src="https://img.shields.io/badge/Curious%20Cat-ff5c00?style=for-the-badge&logo=curiouscat&logoColor=white" height=23></a>  <a href="https://codeforces.com/profile/HGPA"><img src="https://img.shields.io/badge/codeforces-%234566B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height=23></a></p>
+  </p>
 <hr>
 
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=py,html,css,js,react,cpp,matlab,md,git,vscode,&perline=12"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=py,html,css,js,react,nextjs,java,php,postgres,figma,matlab,git,vscode,&perline=12"  />
 </p>
 
 
@@ -42,7 +42,7 @@
 
 <p align="center">
 <a href="https://github.com/HalemoGPA/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRicMerque&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  </a>
 </p>
 
@@ -51,11 +51,11 @@
 <br>
 <p align="center">
 <a href="https://github.com/HalemoGPA/Learn-Js/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HalemoGPA&repo=Learn-Js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=Learn-Js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
   
 <a href="https://github.com/HalemoGPA/HalemoGPA/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HalemoGPA&repo=HalemoGPA&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=HalemoGPA&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 </p>
