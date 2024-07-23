@@ -50,12 +50,16 @@
 <h2 align="center">💹 Most Popular Repos 💹</h2>
 <br>
 <p align="center">
-<a href="https://github.com/HalemoGPA/Learn-Js/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=Learn-Js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/JohnRicMerque/covidRush/">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=covidRush&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
   
-<a href="https://github.com/HalemoGPA/HalemoGPA/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=HalemoGPA&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/JohnRicMerque/pup-interactive-map/">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=pup-interactive-map&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/JohnRicMerque/space-shooter-game/">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=space-shooter-game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 </p>
@@ -71,7 +75,7 @@
 </p>
 -->
 <p align="center">
-  <a href="https://www.github.com/HalemoGPA" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/HalemoGPA?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
+  <a href="https://www.github.com/HalemoGPA" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/JohnRiMerquelogo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
 </p>
 <!---
 HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
