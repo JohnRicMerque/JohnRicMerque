@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Halemo+GPA;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30"> -->
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+John+Ric+Merque;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
   </a>
 </h1>
    
@@ -60,7 +60,11 @@
 
 <a href="https://github.com/JohnRicMerque/space-shooter-game/">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=space-shooter-game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>
+
+<a href="https://github.com/JohnRicMerque/WHO-suicide-statistics-analysis/">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=WHO-suicide-statistics-analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 </p>
 
@@ -75,7 +79,7 @@
 </p>
 -->
 <p align="center">
-  <a href="https://www.github.com/HalemoGPA" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/JohnRiMerquelogo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
+  <a href="https://www.github.com/JohnRiMerque" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/JohnRiMerquelogo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
 </p>
 <!---
 HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
