@@ -49,24 +49,23 @@
 <hr>
 <h2 align="center">💹 Most Popular Repos 💹</h2>
 <br>
-  <p align="center">
-    <a href="https://github.com/JohnRicMerque/covidRush/">
-      <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=covidRush&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-    </a>   
-      
-    <a href="https://github.com/JohnRicMerque/pup-interactive-map/">
-      <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=pup-interactive-map&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-    </a>
+<p align="center">
+  <a href="https://github.com/JohnRicMerque/covidRush/">
+    <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=covidRush&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>   
+    
+  <a href="https://github.com/JohnRicMerque/pup-interactive-map/">
+    <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=pup-interactive-map&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
 
-    <a href="https://github.com/JohnRicMerque/space-shooter-game/">
-      <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=space-shooter-game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-    </a>
+  <a href="https://github.com/JohnRicMerque/space-shooter-game/">
+    <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=space-shooter-game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
 
-    <a href="https://github.com/JohnRicMerque/WHO-suicide-statistics-analysis/">
-      <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=WHO-suicide-statistics-analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-    </a>
-
-  </p>
+  <a href="https://github.com/JohnRicMerque/WHO-suicide-statistics-analysis/">
+    <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=WHO-suicide-statistics-analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+</p>
 
 <hr>
 <!-- <p align="center">
@@ -78,9 +77,9 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"/>       
 </p>
 -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.github.com/JohnRicMerque" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/JohnRicMerquelogo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
-</p>
+</p> -->
 <!---
 HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
