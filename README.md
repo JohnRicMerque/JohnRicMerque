@@ -9,14 +9,14 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
+  Hi, I'm John Ric Merque, a Computer Engineering Student
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
+  👨‍🎓 I'm currently studying for a Bachelor's degree in Computer Engineering at Polytechnic University of the Philippines
   <br>
   💻 I love Writing code, Deep Learning, Problem Solving and learning anything about them 😊
   <br>
-  📚 I’m currently focusing on Data Science 
+  📚 I’m currently focusing on Data Engineering or Software Engineering
   <br>
   📫 How to reach me 👇
 </p>
