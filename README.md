@@ -12,11 +12,11 @@
   Hi, I'm John Ric Merque, a Computer Engineering Student
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Computer Engineering at Polytechnic University of the Philippines
+  👨‍🎓 I am a recent graduate with a Bachelor’s degree in Computer Engineering from the Polytechnic University of the Philippines.
   <br>
-  💻 I love building and learning new technologies 😊
+  💻 I love learning new technologies 😊
   <br>
-  📚 I’m currently focusing on Data Engineering or Software Engineering
+  📚 I’m currently focusing on QA Automation
   <br>
   📫 How to reach me 👇
 </p>
@@ -46,7 +46,7 @@
  </a>
 </p>
 
-<hr>
+<!-- <hr>
 <h2 align="center">💹 Most Popular Repos 💹</h2>
 <br>
 <p align="center">
