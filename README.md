@@ -1,90 +1,151 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA">    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JohnRicMerque/JohnRicMerque" alt="JohnRicMerque">    
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+John+Ric+Merque;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+John+Ric+Merque;Automation+QA+Engineer+%F0%9F%9A%80&center=true&size=25&color=61dafb">
   </a>
 </h1>
-   
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+
 <p align="center">
-  Hi, I'm John Ric Merque, a Computer Engineering Student
-  <br>
-  <br>
-  👨‍🎓 I am a recent graduate with a Bachelor’s degree in Computer Engineering from the Polytechnic University of the Philippines.
-  <br>
-  💻 I love learning new technologies 😊
-  <br>
-  📚 I’m currently focusing on QA Automation
-  <br>
-  📫 How to reach me 👇
+  <img src="https://img.shields.io/badge/Focus-QA%20Automation-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-Software%20Testing-blue?style=for-the-badge" />
 </p>
-<p align="center"> <a href="https://www.linkedin.com/in/john-ric-merque-904045110/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:johnricmer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
-  <!--  <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> --> 
-<!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
- <!--  <a href="https://www.youtube.com/watch?v=p0uAJ6Eu4Rs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> -->
-  </p>
+
+###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me:
+
+
 <hr>
 
+## 🔧 **Technical Arsenal**
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=py,html,css,js,react,nextjs,java,php,postgres,figma,matlab,git,vscode,&perline=12"  />
-</p>
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<details>
+<summary><b>🧪 Software Testing & QA</b></summary>
 <br>
 
+**Testing Types:** Manual • Automation • Exploratory • Regression • Smoke • API Testing
 
+**Automation Tools:**
+🎭 Playwright    🎪 Puppeteer    🔧 Selenium
+🤖 Appium       📋 Katalon      🚀 Robot Framework
+</details>
 
-<p align="center">
-<a href="https://github.com/HalemoGPA/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRicMerque&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
- </a>
-</p>
-
-<!-- <hr>
-<h2 align="center">💹 Most Popular Repos 💹</h2>
+<details>
+<summary><b>💻 Development & Programming</b></summary>
 <br>
-<p align="center">
-  <a href="https://github.com/JohnRicMerque/covidRush/">
-    <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=covidRush&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  </a>   
-    
-  <a href="https://github.com/JohnRicMerque/pup-interactive-map/">
-    <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=pup-interactive-map&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  </a>
 
-  <a href="https://github.com/JohnRicMerque/space-shooter-game/">
-    <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=space-shooter-game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  </a>
+**Languages:**
+⚡ JavaScript   🐍 Python      🐘 PHP
+☕ Java         🗃️ SQL
 
-  <a href="https://github.com/JohnRicMerque/WHO-suicide-statistics-analysis/">
-    <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnRicMerque&repo=WHO-suicide-statistics-analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  </a>
-</p>
+**Frontend:**
+🌐 HTML5        🎨 CSS3        🎯 TailwindCSS
+⚛️ ReactJs      ⏭️ NextJs
 
-<hr>
-<!-- <p align="center">
-  <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
-</p> -->
+**Backend:**
+🚀 ExpressJs    🟢 Node.js     🔌 API Development
+
+**Database:**
+🐬 MySQL        🔥 Firebase Firestore
+</details>
+
+<details>
+<summary><b>🛠️ Tools & Technologies</b></summary>
+<br>
+
+**Version Control:**
+📝 Git          🐙 GitHub
+
+**API Testing:**
+📮 Postman
+
+**Design:**
+🎨 Figma
+
+**Project Management:**
+🧪 Testiny      📋 Trello      📝 Notion
+
+**Cloud:**
+☁️ Azure DB     📦 Azure Blob Storage
+</details>
 
 <!--
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"/>       
+<p align="center">
+<img width="600px" src="https://skillicons.dev/icons?i=py,js,react,nextjs,html,css,selenium,playwright,java,php,mysql,postgres,firebase,git,github,figma,vscode&perline=9" />
 </p>
 -->
-<!-- <p align="center">
-  <a href="https://www.github.com/JohnRicMerque" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/JohnRicMerquelogo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
-</p> -->
-<!---
-HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--Footer--> 
+<hr>
+
+## 🚀 **Featured Projects**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔍 **QA Automation Projects**
+- **[OrangeHRM Test Suite](https://github.com/JohnRicMerque/orangehrm-playwright-automation)** - Comprehensive Playwright automation covering functional, UI, and responsive testing
+
+</td>
+<td width="50%">
+
+### ⚡ **Process Automation**
+- **[Frequent Flyer Miles Scraper](https://github.com/JohnRicMerque/ek-miles-py)** - Python automation tool processing 500K+ data rows, reducing manual work from 3 months to 2 weeks
+- **Multi-Platform Data Extraction** - Puppeteer + Selenium solutions for complex data mining
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏆 **Award-Winning Development**
+- **[SnapTrash AI](https://github.com/irishmicoletcando/snaptrash-rurok)** - 🥇 Most Creative App Award (AppCon 2024) - AI-powered waste management with Flutter, YOLOv8, MapBox
+
+</td>
+<td width="50%">
+
+### 🎓 **Academic Excellence**
+- **[PUP-MMS](https://github.com/irishmicoletcando/pup-moa-monitoring)** - Full-stack MERN application with Azure integration
+- **[H2gether](https://github.com/irishmicoletcando/h2gether-mobile-app)** - Kotlin-based mobile app with Firebase backend
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+## 📊 **GitHub Analytics**
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=65&section=footer"/>
+<a href="https://github.com/JohnRicMerque">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRicMerque&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61dafb&text_color=ffffff&size_weight=0.2&count_weight=0.5"/>
+</a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnRicMerque&theme=tokyonight&hide_border=true&background=0d1117&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=61dafb&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+</p>
+
+## 📫 **Let's Connect**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/john-ric-merque-a8b521344/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:johnricmer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://johnricmerque.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://github.com/JohnRicMerque">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>💡 "Quality is not an act, it is a habit" - Aristotle</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=footer"/>
 </p>
